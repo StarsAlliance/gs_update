@@ -1,0 +1,9 @@
+// game "cssource"
+// name "My best server"
+//
+login anonymous
+force_install_dir /srv/cssource
+app_update 232330 validate
+exit
+
+//this is steam preseed file sample

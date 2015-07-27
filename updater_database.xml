@@ -1,0 +1,50 @@
+<windows>
+<steamid>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="7dd">7 Days to Die Dedicated Server</game>
+<game id="17515" steamcmd="1" steamclient="1" anonymous="1" alias="aoc">Age of Chivalry Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="aliens">Alien Swarm Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="avp">Aliens vs Predator Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="aa3">America's Army 3 Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="aa3_beta">America's Army 3 Dedicated Server Beta</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="aapg">America's Army: Proving Grounds Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="arma2">ARMA 2 Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="arma2oa">Arma 2: Operation Arrowhead Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="arma3">Arma 3 Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="bmd">Black Mesa: Deathmatch Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="bs">Blade Symphony Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="breach">Breach Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="brink">Brink Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="br">BlazeRush Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="codmw3">Call of Duty: Modern Warfare 3 Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="cdw">Chivalry: Deadliest Warrior Dedicated server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="cmw">Chivalry: Medieval Warfare Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="contagion">Contagion Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="cs16">Counter-Strike 1.6</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="csgo">Counter-Strike Global Offensive Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="cscz" key="mod czero">Counter-Strike: Condition Zero Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="cssource">Counter-Strike: Source Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="diprip">D.I.P.R.I.P. Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dmomm">Dark Messiah of Might & Magic Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dhour">Darkest Hour Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dod" key="mod dod">Day of Defeat Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dodsource">Day of Defeat: Source Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dm" key="mod dmc">Deathmatch Classic Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dino_dday">Dino D-Day Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="daction">Double Action Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="dystopia">Dystopia Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="eye">E.Y.E - Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="esilence">Eternal Silence Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="fof">Fistful of Frags Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="fortressf">Fortress Forever Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="gm">Garry's Mod Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="gtre_demo">GTR Evolution Demo Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="hl2dm">Half-Life 2: Deathmatch Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="hldmsource">Half-Life Deathmatch: Source Dedicated server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="hl">Half-Life Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="hlof" key="mod gearbox" >Half-Life: Opposing Force Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="homefront">Homefront Dedicated Server</game>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="insurgency2014">Insurgency 2014 Dedicated Server</game>
+</steamid>
+</windows>
+</linux>
+<osx>
