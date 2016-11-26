@@ -1,6 +1,6 @@
-// game "cssource"
+// game "anygame"
 // name "My best server"
-//
+// Usage steamcmd +runscript filename.sps
 login anonymous
 force_install_dir /srv/cssource
 app_update 232330 validate
