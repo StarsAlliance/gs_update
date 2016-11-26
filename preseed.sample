@@ -4,6 +4,6 @@
 login anonymous
 force_install_dir /srv/cssource
 app_update 232330 validate
-exit
+quit
 
 //this is steam preseed file sample
