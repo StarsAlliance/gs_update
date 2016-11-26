@@ -1,3 +1,4 @@
+<steamcmd>
 <windows>
 <steamid>
 <game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="7dd">7 Days to Die Dedicated Server</game>
@@ -46,5 +47,10 @@
 <game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="insurgency2014">Insurgency 2014 Dedicated Server</game>
 </steamid>
 </windows>
+<linux>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="7dd">7 Days to Die Dedicated Server</game>
 </linux>
-<osx>
+<macos>
+<game id="294420" steamcmd="1" steamclient="1" anonymous="0" alias="7dd">7 Days to Die Dedicated Server</game>
+</macos>
+</steamcmd>
